@@ -1,0 +1,24 @@
+body{
+  background-color: red;
+  color:blue;
+  font-family:cursive;
+  text-align: center;
+}
+h1{
+  font-size:50px;
+}
+h3{
+  font-size:25px
+}
+img{
+  height:500px;
+  width:500px;
+}
+#score{
+ font-size:15px;
+}
+#reset{
+  color:blue;
+  background-color:red;
+  size:50px
+}
